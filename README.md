@@ -10,3 +10,7 @@
   - IRC efnet #winprog
   
 2. C++20 For Programmers
+3. Python programming on win32 (doubtful, its 21 years old! might skim it for insight)
+4. Hands on Penetration Testing on Windows  Phil Bramwell
+5. Learning Powershell
+6. How can Pentoo help me exploit win32
