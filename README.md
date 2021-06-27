@@ -14,3 +14,4 @@
 4. Hands on Penetration Testing on Windows  Phil Bramwell
 5. Learning Powershell
 6. How can Pentoo help me exploit win32
+7. insecure.org search win32
