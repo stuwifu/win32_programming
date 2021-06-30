@@ -7,7 +7,7 @@ int main() {
     int number1{0}; // first integer to add (initialized to 0)
     int number2{0}; // second integer to add (initialized to 0)
     int sum{0}; // sum of number1 and number2 (initialized to 0)
-
+    
     std::cout << "Enter the first integer: "; // prompt user for data
     std::cin >> number1; // read the first integer from user into number1
 
@@ -18,3 +18,4 @@ int main() {
 
     std::cout << "Sum is " << sum << std::endl; // display sum, end line
 } 
+// do my new creds work?
