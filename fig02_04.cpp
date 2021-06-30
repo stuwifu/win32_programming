@@ -18,4 +18,3 @@ int main() {
 
     std::cout << "Sum is " << sum << std::endl; // display sum, end line
 } 
-// do my new creds work?
