@@ -13,7 +13,7 @@
   - Programming Windows with MFC            Jeff Prosise
   - Programming applications for windows    Jeffrey Richter
   - Visual C++ Windows Shell Programming    Dino Esposito
-  - Network Programming for MS Windows
+  - Network Programming for MS Windows (arrived and on bookshelf)
   - IRC efnet #winprog
   
 2. C++20 For Programmers
